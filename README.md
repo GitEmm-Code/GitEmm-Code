@@ -42,7 +42,7 @@ I'm emm, a web designer and developer based in Mexico City. I run **[Stud!o](htt
 
 ## My contributions
 
-![Snake eating my contributions](https://raw.githubusercontent.com/GitEmm-Code/GitEmm-Code/output/github-snake.svg)
+![Snake eating my contributions](https://raw.githubusercontent.com/GitEmm-Code/GitEmm-Code/refs/heads/output/github-snake.svg)
 
 ![](https://raw.githubusercontent.com/GitEmm-Code/GitEmm-Code/main/assets/divider.svg)
 
