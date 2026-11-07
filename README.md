@@ -17,6 +17,8 @@ I'm emm, a web designer and developer based in Mexico City. I run **[Stud!o](htt
 - 🔤 Lately I've been turning birds and waves into animated ASCII art
 - 🇲🇽 I build in Spanish and English
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=GitEmm-Code)
+
 [![Stud!o](https://tecmisoft.com/studio/assets/img/brand/og-image.jpg)](https://getstudio.mx)
 
 ![](https://raw.githubusercontent.com/GitEmm-Code/GitEmm-Code/main/assets/divider.svg)
@@ -34,9 +36,7 @@ I'm emm, a web designer and developer based in Mexico City. I run **[Stud!o](htt
 
 ![HTML, CSS, JavaScript, Git and GitHub](https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark)
 
-![GSAP](https://img.shields.io/badge/GSAP-animation-0B0F19?style=flat-square)
-![Canvas](https://img.shields.io/badge/Canvas-ASCII%20art-2B3FFF?style=flat-square)
-![Lenis](https://img.shields.io/badge/Lenis-smooth%20scroll-A9B3FF?style=flat-square)
+![GSAP, Canvas and Lenis](https://raw.githubusercontent.com/GitEmm-Code/GitEmm-Code/main/assets/tools.svg)
 
 ![](https://raw.githubusercontent.com/GitEmm-Code/GitEmm-Code/main/assets/divider.svg)
 
