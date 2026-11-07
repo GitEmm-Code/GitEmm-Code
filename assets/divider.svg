@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="34" viewBox="0 0 840 34" role="img" aria-label="Section divider">
+<defs>
+<linearGradient id="l0" gradientUnits="userSpaceOnUse" x1="10" y1="0" x2="394" y2="0"><stop offset="0" stop-color="#2B3FFF" stop-opacity="0"/><stop offset="1" stop-color="#2B3FFF"/></linearGradient>
+<linearGradient id="l1" gradientUnits="userSpaceOnUse" x1="446" y1="0" x2="830" y2="0"><stop offset="0" stop-color="#2B3FFF"/><stop offset="1" stop-color="#2B3FFF" stop-opacity="0"/></linearGradient>
+</defs>
+<line x1="10" y1="17" x2="394" y2="17" stroke="url(#l0)" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="1 11"><animate attributeName="stroke-dashoffset" values="12;0" dur="1.8s" repeatCount="indefinite"/></line>
+<line x1="446" y1="17" x2="830" y2="17" stroke="url(#l1)" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="1 11"><animate attributeName="stroke-dashoffset" values="0;12" dur="1.8s" repeatCount="indefinite"/></line>
+<path fill="#2B3FFF" d="M417.44 8H422.56L421.74 19.64H418.26ZM420 26.25Q418.79 26.25 418.03 25.55Q417.28 24.84 417.28 23.71Q417.28 22.58 418.03 21.87Q418.79 21.17 420 21.17Q421.23 21.17 421.98 21.87Q422.72 22.58 422.72 23.71Q422.72 24.84 421.98 25.55Q421.23 26.25 420 26.25Z"/>
+</svg>
